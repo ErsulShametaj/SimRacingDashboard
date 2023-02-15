@@ -1,6 +1,6 @@
 # SimRacingDashboard
 
-This is a sim racing dashboard aimed at enhancinh sim racers performance by giving more advanced insight of their performance by the use of the API Plotly dash. The dashboard is seperated into two section session info and lap info. Session info provides the sim racer with information regarding the overall performance of a session (up to 20 laps) and the lap info gives insight to a specific lap chosen.
+This is a sim racing dashboard aimed at enhancing sim racers performance by giving more advanced insight of their performance by the use of the API Plotly dash. The dashboard is seperated into two section session info and lap info. Session info provides the sim racer with information regarding the overall performance of a session (up to 20 laps) and the lap info gives insight to a specific lap chosen.
 
 ## 1. Session info
 
@@ -32,10 +32,20 @@ This is a sim racing dashboard aimed at enhancinh sim racers performance by givi
 - Back Tyres Slip Angle - The slip angle of the back tyres during the selected section
 - Select a Lap to Compare - A dropdown menu where the sim racer can choose another lap which they want to compare their advanced insights with
 
-## The final version of the dashboard can be seen below. 
+## The final version of the dashboard can be seen below.
+### Session info:
 ![Prototype Final Session](https://user-images.githubusercontent.com/123899208/219104284-81d8f51d-a5b2-42c5-91ed-95de291f0151.png)
+
+
+### Lap info:
 ![Prototype Final Lap](https://user-images.githubusercontent.com/123899208/219104283-62407c76-a2d7-431d-962c-ead76e90126e.png)
+
+
+### Advanced insight:
 ![Prototype Final Technical KPIs](https://user-images.githubusercontent.com/123899208/219104285-c68e44c3-4575-464c-8a8e-082db16001ba.png)
+
+
+### Compare:
 ![Prototype Final Comparison](https://user-images.githubusercontent.com/123899208/219104279-8a5882c5-4dc3-4cb6-9134-e12e98f3b422.png)
 
 
