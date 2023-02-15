@@ -1,6 +1,6 @@
 # SimRacingDashboard
 
-This is a sim racing dashboard aimed at enhancing sim racers performance by giving more advanced insight of their performance by the use of the API Plotly dash. The dashboard is seperated into two section session info and lap info. Session info provides the sim racer with information regarding the overall performance of a session (up to 20 laps) and the lap info gives insight to a specific lap chosen.
+This is a sim racing dashboard aimed at enhancing sim racers performance by giving more advanced insight of their performance by the use of the API Plotly dash. The dashboard is seperated into two section session info and lap info. Session info provides the sim racer with information regarding the overall performance of a session (up to 20 laps) and the lap info gives insight to a specific lap chosen. The dashboard is accessible via a browser, embedded in a web page.
 
 ## 1. Session info
 
